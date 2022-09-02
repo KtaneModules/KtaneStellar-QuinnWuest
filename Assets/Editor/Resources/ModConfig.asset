@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: stellar
+  title: Stellar
+  author: Quinn Wuest
+  description: "Be not afraid.\r\n\r\n\rThis is a reuploaded item from a creator who
+    wishes to remain anonymous.\n\n[url=https://ktane.timwi.de/HTML/Stellar.html]Manual
+    HTML[/url]\n[url=https://ktane.timwi.de/PDF/Stellar.pdf]Manual PDF[/url]\n\nStellar
+    (stellar) v2.0\nMaintained by Quinn Wuest\nTwitch Plays Supported"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 075121b98ef5b7244bcc9c8f17a741f0, type: 3}
